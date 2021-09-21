@@ -1,5 +1,5 @@
 # Principles-of-AI
-homework
+
 用来上传每次人工智能原理的作业和自己做出来答案
 
 
