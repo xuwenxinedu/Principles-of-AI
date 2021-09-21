@@ -5,6 +5,6 @@ homework
 
 搜索技术：
 
-queens   dfs
-
-astar  nodes  edges
+  queens   dfs
+     
+  astar  nodes  edges
